@@ -1,4 +1,4 @@
-# kayra nft profiles pictures
+# kayra nft profiles picture
 - 0xprofile.jpgs
 - 0xkayra (1).jpg
 - 0xkayra (2).jpg
